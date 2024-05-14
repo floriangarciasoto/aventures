@@ -1,0 +1,1 @@
+<footer><b>aventures.ddns.net</b> <span>- All Rights Reserved</span></footer>

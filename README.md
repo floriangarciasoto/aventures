@@ -4,7 +4,7 @@ Ce projet est une plateforme destinée à offrir une expérience immersive de je
 
 ## Aperçu du Projet
 
-Ce dépôt contient une partie du code source du site de jeu de rôle en ligne. Pour des raisons de confidentialité et de sécurité, je n'ai inclus qu'une partie du code dans ce dépôt public. Cependant, soyez assuré que le projet complet est en cours de développement et sera accessible à un public plus large à l'avenir.
+Ce dépôt contient une partie du code source du site de jeu de rôle en ligne. Pour des raisons de confidentialité et de sécurité, je n'ai inclus qu'une partie du code dans ce dépôt public. Par conséquent, le code déposé sur GitHub ne correspond pas à 100% à celui qui est exécuté sur le site. Le but étant simplement pour le moment de vous montrer comment j'ai à peu prés codé ce site. De plus, ce dernier n'a même pas de mentions légales, bien que je tienne déjà à dire que toutes les images utilisées sur celui-ci reviennent à leur auteur respectif, et qu'elles ne seront jamais utilisées à des fins commerciales. Je souhaite garder l'authenticité de ce site. Ainsi, il n'y aura jamais de publicités, trackers ou autres joyeusetés, vous avez ma parole ! Cependant, je réfléchis toujours à rendre l'entièreté du code accessible à un public plus large à l'avenir. Je songerai aussi à dévoiler la structure de la base de données qui tourne derrière.
 
 En attendant voici un GIF qui montre la page d'accueil avec quelques liens :
 
